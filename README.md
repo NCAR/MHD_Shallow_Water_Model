@@ -24,5 +24,5 @@ While the details about the full set of non-linear MHD shallow water
 equations can be found in Dikpati et al. (2018, ApJ), those equations
 in non-dimensional form in the rotating frame (rotating with the Sun’s 
 core-rotation rate) are given below:
-
+![MHD-SW Equations](images/MHD-SW-Equations.png)
 ## References:
