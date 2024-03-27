@@ -28,4 +28,6 @@ core-rotation rate) are given below:
 
 ![MHD-SW Equations](images/MHD-SW-Equations.png)
 
+[Movie for magnetic bands' interaction](https://drive.google.com/file/d/1toZKZIyqqZWeIszP7UeLdaFMiiijB_mp/view?usp=sharing)
+
 ## References:
